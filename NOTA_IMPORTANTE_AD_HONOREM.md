@@ -2,7 +2,7 @@
 
 ## MODELO DE SERVICIO
 
-Este proyecto está diseñado como un **servicio comunitario ad honorem** para la Gran Logia de Argentina.
+Este proyecto está diseñado como un **servicio comunitario ad honorem** para la Gran Logia de Libres y Aceptados Masones de la República Argentina.
 
 ### Características del Modelo:
 
