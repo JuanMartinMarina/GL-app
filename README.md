@@ -2,7 +2,7 @@
 
 ## Descripción del Proyecto
 
-Plataforma digital que conecta a miembros de la Gran Logia de Argentina que ofrecen servicios profesionales (plomería, gasista, abogados, médicos, contadores, etc.) con otros hermanos que necesitan esos servicios.
+Plataforma digital que conecta a miembros de la Gran Logia de Libres y Aceptados Masones de la República Argentina que ofrecen servicios profesionales (plomería, gasista, abogados, médicos, contadores, etc.) con otros hermanos que necesitan esos servicios.
 
 **Modelo**: Servicio comunitario ad honorem sin fines de lucro
 
