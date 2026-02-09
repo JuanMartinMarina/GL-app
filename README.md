@@ -1,4 +1,4 @@
-# Plataforma de Servicios Profesionales - Gran Logia Argentina
+# Plataforma de Servicios Profesionales - Gran Logia De Libres Y Aceptados Masones de la República Argentina
 
 ## Descripción del Proyecto
 
@@ -144,7 +144,7 @@ Este es un **proyecto de servicio comunitario** para:
 
 ## Licencia y Uso
 
-Este proyecto es de **uso exclusivo para la Gran Logia de Argentina** y sus miembros verificados.
+Este proyecto es de **uso exclusivo para la Gran Logia de Libres y Aceptados Masones de la República Argentina** y sus miembros verificados.
 
 ---
 
