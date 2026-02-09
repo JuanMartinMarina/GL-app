@@ -729,6 +729,10 @@ Plataforma de servicios profesionales para fortalecer los lazos fraternales y la
 
 ---
 
+Disclaimer: Los precios expuestos pueden variar u oscilar en función de los proveedores, no somos responsables por los cambios en los que incurran dichos proveedores de tecnología conforme se discuta tanto el avance del proyecto como durante su ejecución.
+
+---
+
 **Documento creado**: Febrero 2026
 **Versión**: 1.0 - Ad Honorem Final
 **Proyecto**: Servicio comunitario sin fines de lucro
